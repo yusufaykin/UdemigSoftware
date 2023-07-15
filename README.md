@@ -36,7 +36,7 @@ This project is an impressive website created using HTML5 and CSS3 technologies.
 
 # Gif
 
-<img src="/images/tree.gif"/>
+<img src="/img/ezgif.com-video-to-gif.gif"/>
 
 # Contributing
 
